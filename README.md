@@ -1,3 +1,2 @@
-# FormValidation, CRUD y Fotos
+# FormValidation, CRUD y Fotos Bloc Providers
 
-Repositorio oficial de mi curso de Flutter
